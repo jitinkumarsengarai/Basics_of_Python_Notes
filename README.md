@@ -47,4 +47,4 @@ The course is divided into 12 modules:
 3. Practice as you go along.
 
 ```bash
-git clone [https://github.com/jitinkumarsengarai/Basics_of_Python_Notes]
+git clone https://github.com/jitinkumarsengarai/Basics_of_Python_Notes
