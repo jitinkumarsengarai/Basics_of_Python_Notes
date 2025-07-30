@@ -48,7 +48,7 @@ The course is divided into 12 modules:
 
 ```bash
 git clone https://github.com/jitinkumarsengarai/Basics_of_Python_Notes
-
+```
 ## 🤝 Contributing
 
 Found a typo or want to improve content?
