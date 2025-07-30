@@ -1,4 +1,6 @@
-# 🐍 Basics of Python
+<img width="1024" height="1024" alt="ChatGPT Image Jul 30, 2025, 11_59_36 AM" src="https://github.com/user-attachments/assets/b4ab33b3-140f-42ab-9a06-cea5ba0ed68a" />
+
+<br>
 
 Welcome to the **Basics of Python** repository — a beginner-friendly, structured guide to learning Python programming from scratch. This content is designed to help new learners build a strong foundation in Python without any prior programming experience.
 
