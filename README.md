@@ -48,3 +48,33 @@ The course is divided into 12 modules:
 
 ```bash
 git clone https://github.com/jitinkumarsengarai/Basics_of_Python_Notes
+
+## 🤝 Contributing
+
+Found a typo or want to improve content?
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+Open an issue if you have any questions or suggestions.
+
+Happy Learning! 🚀
+
+```
+
+---
+
+Let me know if you want:
+- a downloadable `.md` file  
+- your GitHub username inserted in the clone link  
+- or a cover image/banner at the top
+```
+
